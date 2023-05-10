@@ -1,3 +1,5 @@
+// For Disappearing NAVBAR//
+
 /*let theEnd = 0,
     navbar = document.getElementById('navbar');
 
@@ -14,6 +16,7 @@ window.addEventListener('scroll',function(){
     theEnd = scrollTop;
 })
 */
+
 
 const navMenu = document.querySelector(".nav-menu");
 const hamburger = document.querySelector(".hamburger");
